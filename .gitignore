@@ -1,0 +1,5 @@
+*.bak.html
+*.backup.html
+*.old.html
+assets/video/*.mp4
+assets/gif/disorder-home.gif

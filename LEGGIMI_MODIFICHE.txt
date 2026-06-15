@@ -1,0 +1,29 @@
+DISORDER - MODIFICHE DIRETTE
+============================
+
+Questa cartella e' la versione operativa del sito.
+
+Lavorare esclusivamente qui:
+C:\Users\Dalloooo\Desktop\DISORDER\dist
+
+Non usare sorgenti Astro esterni.
+Non ricompilare da altre cartelle.
+Non sostituire questa dist con build provenienti da altre copie.
+
+File principali:
+- index.html
+- disorder\index.html
+- disorder\video-gallery\index.html
+- disorder\video\*\index.html
+- disorder\project\index.html
+- disorder\contact\index.html
+- repository\index.html
+- repository\about\index.html
+- repository\archive\index.html
+- _astro\*.js
+- assets\*
+- fonts\*
+
+Per verificare:
+aprire C:\Users\Dalloooo\Desktop\DISORDER\APRI.cmd
+oppure visitare http://127.0.0.1:4325/
